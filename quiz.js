@@ -102,7 +102,7 @@ function shuffle(array) {
 // Handle the back button click event
 const backButton = document.querySelector("#backButton");
 backButton.addEventListener("click", () => {
-  window.location.href = "startPageQuiz.html";
+  window.location.href = "index.html";
 });
 
 // Handle the view JSON button click event
