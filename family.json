@@ -1,0 +1,23 @@
+
+{
+    "family": [
+      { "arabic": " عائلة", "pronounce": "‘aa’ila", "english": "family" },
+      { "arabic": " أب", "pronounce": "ab", "english": "father" },
+      { "arabic": " أم", "pronounce": "um", "english": "mother" },
+      { "arabic": " ابن", "pronounce": "ibn", "english": "son" },
+      { "arabic":  "ابنة/بِنْت", "pronounce": "ibna/bint", "english": "daughter" },
+      { "arabic": " أخ", "pronounce": "akh", "english": "brother" },
+      { "arabic":  "أخت", "pronounce": "ukht", "english": "sister" },
+      { "arabic": " جد", "pronounce": "jad", "english": "grandfather" },
+      { "arabic":  "جدة", "pronounce": "jadda", "english": "grandmother" },
+      { "arabic": " حفيد", "pronounce": "hafeed", "english": "grandson" },
+      { "arabic":  "حفيدة", "pronounce": "hafeeda", "english": "granddaughter" },
+      { "arabic": "عم", "pronounce": "‘amm", "english": "uncle (father's side)" },
+      { "arabic": "عمة", "pronounce": "‘ammah", "english": "aunt (father's side)" },
+      { "arabic": "خال", "pronounce": "khaal", "english": "uncle (mother's side)" },
+      { "arabic": "خالة", "pronounce": "khaalah", "english": "aunt (mother's side)" },
+      { "arabic": " زَوْج", "pronounce": "zawj", "english": "husband" },
+      { "arabic":  "زَوْجة", "pronounce": "zawja", "english": "wife"},
+      { "arabic": "أقارب", "pronounce": "aqaarib", "english": "relatives" }
+    ]
+  }

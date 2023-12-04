@@ -1,0 +1,20 @@
+{
+    "objects": [
+      { "arabic": "سيارة", "pronounce": "sayyarah", "english": "car" },
+      { "arabic": "كتاب", "pronounce": "kitaab", "english": "book" },
+      { "arabic": "زجاجة", "pronounce": "zujajah", "english": "bottle" },
+      { "arabic": "دراجة", "pronounce": "darrajah", "english": "bicycle" },
+      { "arabic": "قميص", "pronounce": "qamees", "english": "shirt" },
+      { "arabic": "كرة", "pronounce": "kurah", "english": "ball" },
+      { "arabic": "قلم", "pronounce": "qalam", "english": "pen" },
+      { "arabic": "هاتف", "pronounce": "hatif", "english": "telephone" },
+      { "arabic": "مفتاح", "pronounce": "miftah", "english": "key" },
+      { "arabic": "ساعة", "pronounce": "sa'ah", "english": "clock/watch" },
+      { "arabic": "كوب", "pronounce": "koob", "english": "cup" },
+      { "arabic": "كمبيوتر", "pronounce": "kombiyuutar", "english": "computer" },
+      { "arabic": "ميكروويف", "pronounce": "maykroweif", "english": "microwave" },
+      { "arabic": "حقيبة", "pronounce": "haqeebah", "english": "bag" },
+      { "arabic": "حاسوب محمول", "pronounce": "haasoub mahmool", "english": "laptop" }
+    ]
+  }
+  

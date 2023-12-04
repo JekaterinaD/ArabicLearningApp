@@ -1,0 +1,35 @@
+
+{
+  "places": [
+    { "arabic": "مطار", "pronounce": "matar", "english": "airport" },
+    { "arabic": "محطة", "pronounce": "mahatta", "english": "station" },
+    { "arabic": "مصنع", "pronounce": "masna'", "english": "factory" },
+    { "arabic": "مكتب", "pronounce": "maktab", "english": "office" },
+    { "arabic": "مدرسة", "pronounce": "madrasah", "english": "school" },
+    { "arabic": "مستشفى", "pronounce": "mustashfa", "english": "hospital" },
+    { "arabic": "مدينة", "pronounce": "madinah", "english": "city" },
+    { "arabic": "مطعم", "pronounce": "mat'am", "english": "restaurant" },
+    { "arabic": "جامعة", "pronounce": "jami'ah", "english": "university" },
+    { "arabic": "مسجد", "pronounce": "masjid", "english": "mosque" },
+    { "arabic": "حمام", "pronounce": "hammam", "english": "bathroom" },
+    { "arabic": "بيت", "pronounce": "bayt", "english": "house" },
+    { "arabic": "جزار", "pronounce": "jazzar", "english": "butcher" },
+    { "arabic": "سوق", "pronounce": "souq", "english": "market" },
+    { "arabic": "صيدلية", "pronounce": "saydaliyah", "english": "pharmacy" },
+    { "arabic": "مقهى", "pronounce": "maqha", "english": "cafe" },
+    { "arabic": "متحف", "pronounce": "mat'haf", "english": "museum" },
+    { "arabic": "مكتبة", "pronounce": "maktabah", "english": "library" },
+    { "arabic": "صالون", "pronounce": "salon", "english": "salon" },
+    { "arabic": "نادي", "pronounce": "nadi", "english": "club" },
+    { "arabic": "فندق", "pronounce": "fondooq", "english": "hotel" },
+    { "arabic": "بنك", "pronounce": "bank", "english": "bank" },
+    { "arabic": "شاطئ", "pronounce": "shaate'", "english": "beach" },
+    { "arabic": "ملعب", "pronounce": "mal'ab", "english": "stadium" },
+    { "arabic": "حديقة", "pronounce": "hadiqah", "english": "garden" },
+    { "arabic": "سينما", "pronounce": "sinema", "english": "cinema" },
+    { "arabic": "معرض", "pronounce": "ma'rad", "english": "exhibition" },
+    { "arabic": "محل", "pronounce": "mahall", "english": "shop" },
+    { "arabic": "مركز تسوق", "pronounce": "markaz tassawuq", "english": "shopping center" },
+    { "arabic": "ورشة عمل", "pronounce": "warshat 'amal", "english": "workshop" }
+  ]
+}

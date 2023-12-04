@@ -1,0 +1,34 @@
+{
+    "countries": [
+        { "arabic": "مصر", "pronounce": "Misr", "english": "Egypt" },
+        { "arabic": "السعودية", "pronounce": "as-Su‘ūdiyyah", "english": "Saudi Arabia" },
+        { "arabic": "الإمارات", "pronounce": "al-Imārāt", "english": "United Arab Emirates" },
+        { "arabic": "فرنسا", "pronounce": "Faransā", "english": "France" },
+        { "arabic": "ألمانيا", "pronounce": "Almāniyā", "english": "Germany" },
+        { "arabic": "إيطاليا", "pronounce": "Īṭāliyā", "english": "Italy" },
+        { "arabic": "الصين", "pronounce": "aṣ-Ṣīn", "english": "China" },
+        { "arabic": "اليابان", "pronounce": "al-Yābān", "english": "Japan" },
+        { "arabic": "روسيا", "pronounce": "Rūsiyā", "english": "Russia" },
+        { "arabic": "كندا", "pronounce": "Kanadā", "english": "Canada" },
+        { "arabic": "الهند", "pronounce": "al-Hind", "english": "India" },
+        { "arabic": "أستراليا", "pronounce": "Ustrāliyā", "english": "Australia" },
+        { "arabic": "تركيا", "pronounce": "Turkiyā", "english": "Turkey" },
+        { "arabic": "إسبانيا", "pronounce": "Isbāniyā", "english": "Spain" },
+        { "arabic": "البرازيل", "pronounce": "al-Barāzīl", "english": "Brazil" },
+        { "arabic": "الأرجنتين", "pronounce": "al-Arjantīn", "english": "Argentina" },
+        { "arabic": "كوريا الجنوبية", "pronounce": "Kūriyā al-Janūbiyyah", "english": "South Korea" },
+        { "arabic": "إيران", "pronounce": "Īrān", "english": "Iran" },
+        { "arabic": "عُمان", "pronounce": "‘Umān", "english": "Oman" },
+        { "arabic": "الأردن", "pronounce": "al-Urdunn", "english": "Jordan" },
+        { "arabic": "الجزائر", "pronounce": "al-Jazā'ir", "english": "Algeria" },
+        { "arabic": "لاتفيا", "pronounce": "Latfiyā", "english": "Latvia" },
+        { "arabic": "المغرب", "pronounce": "al-Maghrib", "english": "Morocco" },
+        { "arabic": "تونس", "pronounce": "Tūnis", "english": "Tunisia" },
+        { "arabic": "أوكرانيا", "pronounce": "Ukrāniyā", "english": "Ukraine" },
+        { "arabic": "بلجيكا", "pronounce": "Beljikā", "english": "Belgium" },
+        { "arabic": "أمريكا", "pronounce": "Amrīkā", "english": "USA" },
+        { "arabic": "بريطانيا", "pronounce": "Barīṭāniyā", "english": "UK" }
+    ]
+}
+
+

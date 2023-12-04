@@ -1,0 +1,29 @@
+{
+    "furniture": [
+      { "arabic": "كرسي", "pronounce": "kursiyy", "english": "chair" },
+      { "arabic": "طاولة", "pronounce": "tawilah", "english": "table" },
+      { "arabic": "سرير", "pronounce": "sariir", "english": "bed" },
+      { "arabic": "أريكة", "pronounce": "arikah", "english": "sofa" },
+      { "arabic": "خزانة", "pronounce": "khizanah", "english": "cabinet" },
+      { "arabic": "مكتب", "pronounce": "maktab", "english": "desk" },
+      { "arabic": "مصباح", "pronounce": "misbaah", "english": "lamp" },
+      { "arabic": "رف", "pronounce": "raff", "english": "shelf" },
+      { "arabic": "مرآة", "pronounce": "mir'ah", "english": "mirror" },
+      { "arabic": "ستارة", "pronounce": "sitarah", "english": "curtain" },
+      { "arabic": "سجادة", "pronounce": "sijjadah", "english": "carpet" },
+      { "arabic": "وسادة", "pronounce": "wisadah", "english": "cushion" },
+      { "arabic": "خزانة الملابس", "pronounce": "khizanat al-malabis", "english": "wardrobe" },
+      { "arabic": "منضدة", "pronounce": "muntadah", "english": "coffee table" },
+      { "arabic": "المقعد الطويل", "pronounce": "al-maq'ad al-tawil", "english": "bench" },
+      { "arabic": "صورة", "pronounce": "sourah", "english": "picture" },
+      { "arabic": "نافذة", "pronounce": "nafidhah", "english": "window" },
+      { "arabic": "باب", "pronounce": "bab", "english": "door" },
+      { "arabic": "جدار", "pronounce": "jidar", "english": "wall" },
+      { "arabic": "سقف", "pronounce": "saqf", "english": "ceiling" },
+      { "arabic": "أرضية", "pronounce": "ardiyah", "english": "floor" },
+      { "arabic": "مفتاح", "pronounce": "miftah", "english": "key" },
+      { "arabic": "قفل", "pronounce": "qufl", "english": "lock" },
+      { "arabic": "سلم", "pronounce": "sullam", "english": "stairs" }
+    ]
+  }
+  

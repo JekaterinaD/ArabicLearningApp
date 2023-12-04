@@ -1,0 +1,34 @@
+
+{
+  "prepositions": [
+    { "arabic": "على", "pronounce": "‘alā", "english": "on/above" },
+    { "arabic": "و", "pronounce": "wa", "english": "and" },
+    { "arabic": "تحت", "pronounce": "tahta", "english": "under" },
+    { "arabic": "بين", "pronounce": "bayna", "english": "between" },
+    { "arabic": "إلى", "pronounce": "ilā", "english": "to" },
+    { "arabic": "بِ/مع", "pronounce": "bi/ma‘a", "english": "with" },
+    { "arabic": "مِن", "pronounce": "min", "english": "from" },
+    { "arabic": "في", "pronounce": "fī", "english": "in/at" },
+    { "arabic": "حتى", "pronounce": "hattā", "english": "until" },
+    { "arabic": "عن", "pronounce": "‘an", "english": "about" },
+    { "arabic": "لِ", "pronounce": "li", "english": "for" },
+    { "arabic": "كَ", "pronounce": "ka", "english": "as/like" },
+    { "arabic": "بجانب", "pronounce": "bijānib", "english": "beside" },
+    { "arabic": "أمام", "pronounce": "amāma", "english": "in front of" },
+    { "arabic": "خلف", "pronounce": "khalf", "english": "behind" },
+    { "arabic": "فوق", "pronounce": "fawq", "english": "over" },
+    { "arabic": "داخل", "pronounce": "dākhil", "english": "inside" },
+    { "arabic": "خارج", "pronounce": "khārij", "english": "outside" },
+    { "arabic": "بدون", "pronounce": "bidūn", "english": "without" },
+    { "arabic": "حول", "pronounce": "hawl", "english": "around" },
+    { "arabic": "ضد", "pronounce": "did", "english": "against" },
+    { "arabic": "عبر", "pronounce": "‘abara", "english": "across" },
+    { "arabic": "بينما", "pronounce": "baynama", "english": "while" },
+    { "arabic": "عدا", "pronounce": "‘adā", "english": "except" },
+    { "arabic": "من خلال", "pronounce": "min khalāl", "english": "through" },
+    { "arabic": "يمين", "pronounce": "yamīn", "english": "right" },
+    { "arabic": "يسار", "pronounce": "yisār", "english": "left" },
+    { "arabic": "أعلى", "pronounce": "a‘lā", "english": "above" },
+    { "arabic": "أسفل", "pronounce": "asfal", "english": "below" }
+  ]
+}

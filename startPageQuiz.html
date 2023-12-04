@@ -1,0 +1,202 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start Arabic Quiz</title>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <style>
+        body {
+            font-family: 'Nunito', sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            user-select: none;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        p {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 18px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 10px 0;
+        }
+
+        a {
+            display: block;
+            background: linear-gradient(to right, #a10e26 0%, #ff7eb3 100%); /* Pink-orange-red gradient */
+            color: #fff; /* White text */
+            padding: 10px 20px;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: transform 0.3s;
+        }
+
+        a:hover {
+            transform: translateY(-2px); /* Slight lift effect on hover */
+        }
+
+        .container {
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Subtle white shadow */
+        }
+
+        .attribution {
+            text-align: center;
+            font-size: 12px;
+            margin-top: 20px;
+            color: #fff; /* White text for attribution as well */
+            opacity: 0.7;
+        }
+        /* Ensure the list has no default list-style */
+        ul {
+        list-style: none;
+        padding: 0;
+        }
+
+        /* Style the links within the list items */
+        ul li a {
+        /* Your existing styles for links */
+        position: relative; /* For pseudo-element positioning */
+        padding-left: 30px; /* Provide space for the icon */
+        }
+
+        /*
+        ul li a::before {
+        content: ""; 
+        position: absolute;
+        left: 0; 
+        top: 50%; 
+        transform: translateY(-50%); 
+        height: 24px; 
+        width: 24px; 
+        background-image: url('dromedary.png'); 
+        background-size: cover; 
+        background-repeat: no-repeat;
+        } 
+        */
+        
+        .container ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Creates a grid with a flexible number of columns */
+        gap: 10px; /* Space between grid items */
+        padding: 0; /* Removes default padding */
+        list-style: none; /* Removes default list styling */
+        margin: 20px 0; /* Adds some margin to the top and bottom of the grid */
+        }
+
+        .container li {
+        background: linear-gradient(to bottom, #6bf2ed, #ad0c0c); /* Example gradient background */
+        border-radius: 5px; /* Rounds the corners of the list items */
+        text-align: center; /* Centers text in the list item */
+        }
+
+        .container li a {
+        display: block; /* Makes the anchor fill the entire list item */
+        padding: 20px; /* Adds padding inside the list items */
+        color: white; /* Sets text color to white */
+        text-decoration: none; /* Removes underline from links */
+        transition: transform 0.2s; /* Smooth transition for hover effects */
+        }
+
+        .container li a:hover {
+        transform: translateY(-5px); /* Slightly raises the link on hover */
+        background-color: #ff7eb3; /* Change background color on hover */
+        }
+
+        #dromedaryAttribution {
+        background: black; /* Set the background to black */
+        text-align: center;
+        font-size: 12px;
+        margin-top: 20px;
+        color: #fff; /* White text */
+        opacity: 0.7;
+        padding: 10px; /* Add padding for better spacing */
+        border-radius: 5px; /* Optional: Adds rounded corners */
+        }
+
+
+  
+
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Welcome to the Arabic Language Quiz!</h1>
+        <p>Select a topic to begin:</p>
+
+       
+        <!-- Example links for different topics -->
+        <ul>
+              <!-- ...topics... -->
+
+            <li><a href="quiz.html?topic=family">Family</a></li>
+            <li><a href="quiz.html?topic=animals">Animals</a></li>
+            <li><a href="quiz.html?topic=jobs">Jobs</a></li>
+            <li><a href="quiz.html?topic=letters">Letters</a></li>
+            <li><a href="quiz.html?topic=numbers">Numbers</a></li>
+            <li><a href="quiz.html?topic=places">Places</a></li>
+            <li><a href="quiz.html?topic=prepositions">Prepositions</a></li>
+            <li><a href="quiz.html?topic=greetings">Greetings</a></li>
+            <li><a href="quiz.html?topic=furniture">Furniture</a></li>
+            <li><a href="quiz.html?topic=nature">Nature</a></li>
+            <li><a href="quiz.html?topic=adjectives">Adjectives</a></li>
+            <li><a href="quiz.html?topic=food">Food</a></li>
+            <li><a href="quiz.html?topic=objects">Objects</a></li>
+            <li><a href="quiz.html?topic=countries">Countries</a></li>
+            <!-- Add more topics as needed -->
+        </ul>
+    
+         <!-- Attribution link at the bottom of the menu -->
+         <!--<div class="attribution">
+            <a href="https://www.flaticon.com/free-stickers/mosque" title="mosque stickers">
+                Mosque stickers created by Stickers - Flaticon
+            </a>-->
+            <div class="attribution">
+            <a href="https://www.flaticon.com/free-icons/dromedary" title="dromedary icons" id="dromedaryAttribution">
+                Dromedary icons created by Freepik - Flaticon
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+
+
+
+
+

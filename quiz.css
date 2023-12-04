@@ -1,0 +1,152 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  user-select: none;
+}
+
+#container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #fff; /* White border */
+  border-radius: 5px;
+  background-color: #000; /* Black background */
+}
+
+.quiz-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+p {
+  background: #000; /* Black background */
+  color: #fff; /* White text */
+  border-radius: 10px;
+}
+
+#question {
+  font-size: 33px;
+  margin-bottom: 20px;
+  font-family: cursive;
+  font-weight: 800;
+  background: #000; /* Black background */
+  color: #fff; /* White text */
+  border-radius: 10px;
+}
+
+.option {
+  display: block;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  background-color: #000000; /* Your existing background color */
+  border: 2px solid #ff7eb3; /* Add a border with the color #ff7eb3 */
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.option:hover {
+  background-color: #ff7eb3; /* Change background color on hover */
+  border: 2px solid #ff7eb3; /* Maintain the border color on hover, or change if needed */
+}
+
+button {
+  padding: 20px 10px;
+  display: inline-block;
+  background: linear-gradient(to right,  #a10e26 0%, #ff7eb3); /* Gradient background */
+  color: #fff; /* White text */
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  transition: transform 0.2s;
+  margin: 4px; /* This will add space around all sides of each button. */
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+div#jsonContent {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  white-space: pre;
+}
+
+h1, h2.quiz-title {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  border-radius: 10px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  margin-bottom: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff; /* White text*/
+}
+
+.json-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.json-table, .json-table th, .json-table td {
+  border: 1px solid #fff;
+}
+
+.json-table th, .json-table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.json-table th {
+  background-color: #ff7eb3;
+  color: #fff;
+}
+
+.json-table td {
+  background-color: #000;
+  color: #fff;
+}
+
+.json-table tbody tr:nth-child(odd) {
+  background-color: #111; /* slightly lighter row for better readability */
+}
+
+.menu-item a {
+  /* existing styles */
+  display: flex; /* Use flexbox to align icon and text */
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Space between icon and text */
+}
+
+.menu-item i, .menu-item img {
+  width: 24px; /* Set a fixed width for your icon */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+
+  
+  

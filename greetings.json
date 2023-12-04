@@ -1,0 +1,26 @@
+{
+  "greetings": [
+    { "arabic": "السلام عليكم", "pronounce": "as-salaamu 'alaykum", "english": "Peace be upon you" },
+    { "arabic": "وعليكم السلام", "pronounce": "wa 'alaykum as-salaam", "english": "And upon you be peace" },
+    { "arabic": "مرحبا", "pronounce": "marhaban", "english": "Hello" },
+    { "arabic": "أهلا", "pronounce": "ahlan", "english": "Hi/Welcome" },
+    { "arabic": "صباح الخير", "pronounce": "sabah al-khayr", "english": "Good morning" },
+    { "arabic": "صباح النور", "pronounce": "sabah al-noor", "english": "Good morning (answer)" },
+    { "arabic": "مساء الخير", "pronounce": "masa' al-khayr", "english": "Good evening" },
+    { "arabic": "مساء النور", "pronounce": "masa' al-noor", "english": "Good evening (answer)" },
+    { "arabic": "تصبح على خير", "pronounce": "tusbih 'ala khayr", "english": "Good night" },
+    { "arabic": "تصبح على نور", "pronounce": "tusbih 'ala noor", "english": "Good night (answer)" },
+    { "arabic": "كيف حالك؟", "pronounce": "kayfa halak?", "english": "How are you?" },
+    { "arabic": "بخير, شكرا", "pronounce": "bikhair, shukran", "english": "Fine, thank you" },
+    { "arabic": "مع السلامة", "pronounce": "ma'a as-salaamah", "english": "Goodbye" },
+    { "arabic": "إلى اللقاء", "pronounce": "ila al-liqaa'", "english": "Until we meet again" },
+    { "arabic": "أهلا وسهلا", "pronounce": "ahlan wa sahlan", "english": "Welcome" },
+    { "arabic": "ما اسمك؟", "pronounce": "ma ismuk?", "english": "What is your name?" },
+    { "arabic": "اسمي...", "pronounce": "ismi...", "english": "My name is..." },
+    { "arabic": "تشرفنا", "pronounce": "tasharrafna", "english": "Pleased to meet you" },
+    { "arabic": "شكرا لك", "pronounce": "shukran lak", "english": "Thank you" },
+    { "arabic": "عفوا", "pronounce": "afwan", "english": "You're welcome" },
+    { "arabic": "نعم", "pronounce": "na'am", "english": "Yes" },
+    { "arabic": "لا", "pronounce": "laa", "english": "No" }
+  ]
+}

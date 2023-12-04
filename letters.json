@@ -1,0 +1,37 @@
+
+{
+    "letters": [
+      { "arabic": "Isolated: ا End: ـا Middle: ـا Initial: ا", "pronounce": "alif", "english": "alif" },
+      { "arabic": "Isolated: ب End: ب Middle: ـبـ Initial: بـ", "pronounce": "bāʾ", "english": "bāʾ" },
+      { "arabic": "Isolated: ت End: ـت Middle: ـتـ Initial: تـ", "pronounce": "tāʾ", "english": "tāʾ" },
+      { "arabic": "Isolated: ث End: ـث Middle: ثـ Initial: ثـ", "pronounce": "thāʾ", "english": "thāʾ" },
+      { "arabic": "Isolated: ج End: ـج Middle: ـجـ Initial: جـ", "pronounce": "jīm", "english": "jīm" },
+      { "arabic": "Isolated: ح End: ـح Middle: ـحـ Initial: حـ", "pronounce": "ḥāʾ", "english": "ḥāʾ" },
+      { "arabic": "Isolated: خ Middle: ـخ End: ـخـ Initial: خـ", "pronounce": "khāʾ", "english": "khāʾ" },
+      { "arabic": "Isolated: د End: ـد Middle: ـد Initial: د", "pronounce": "dāl", "english": "dāl" },
+      { "arabic": "Isolated: ذ End: ـذ Middle: ـذ Initial: ذ", "pronounce": "dhāl", "english": "dhāl" },
+      { "arabic": "Isolated: ر End: ـر Middle: ـر Initial: ر", "pronounce": "rāʾ", "english": "rāʾ" },
+      { "arabic": "Isolated: ز End: ـز Middle: ـز Initial: ـز", "pronounce": "zāy", "english": "zāy" },
+
+      { "arabic": "Isolated: س End: ـس Middle: ـسـ Initial: سـ", "pronounce": "sīn", "english": "sīn" },
+      { "arabic": "Isolated: ش End: ـش Middle: ـشـ Initial: شـ", "pronounce": "shīn", "english": "shīn" },
+      { "arabic": "Isolated: ص End: ـص Middle: ـصـ Initial: صـ", "pronounce": "ṣād", "english": "ṣād" },
+      { "arabic": "Isolated: ض End: ض Middle: ـضـ Isolated: ضـ", "pronounce": "ḍād", "english": "ḍād" },
+      { "arabic": "Isolated: ط End: ـط Middle: ـطـ Initial: ط", "pronounce": "ṭāʾ", "english": "ṭāʾ" },
+      { "arabic": "Isolated: ظ End: ـظ Middle: ـظـ Initial: ظـ", "pronounce": "ẓāʾ", "english": "ẓāʾ" },
+      { "arabic": "Isolated: ع End: ـع Middle: ـعـ Initial: عـ", "pronounce": "3ayn", "english": "3ayn" },
+      { "arabic": "Isolated: غ End: ـغ Middle: ـغـ Initial: غـ", "pronounce": "ghayn", "english": "ghayn" },
+      { "arabic": "Isolated: ف End: ـف Middle: ـفـ Initial: فـ", "pronounce": "fāʾ", "english": "fāʾ" },
+      { "arabic": "Isolated: ق End: ق Middle: ـقـ Initial: قـ", "pronounce": "qāf", "english": "qāf" },
+      { "arabic": "Isolated: ك End: ـك Middle: ـكـ Initial: كـ", "pronounce": "kāf", "english": "kāf" }, 
+
+      { "arabic": "Isolated: ل End: لـ Middle: ـلـ Initial: لـ", "pronounce": "lām", "english": "lām" },
+      { "arabic": "Isolated: م End: ـم Middle: ـمـ Initial: مـ", "pronounce": "mīm", "english": "mīm" },
+      { "arabic": "Isolated: ن End: ـن Middle: ـنـ Initial: نـ", "pronounce": "nūn", "english": "nūn" },
+      { "arabic": "Isolated: ه End: ـه Middle: ـهـ Initial: هـ", "pronounce": "hāʾ", "english": "hāʾ" },
+      { "arabic": "Isolated: و End: ـو Middle: ـو Initial: و", "pronounce": "wāw", "english": "wāw" },
+      { "arabic": "Isolated: ي End: ـي Middle: ـيـ Initial: يـ", "pronounce": "yāʾ", "english": "yāʾ" },
+
+      { "arabic":  "ء", "pronounce": "no sound", "english": "hamza" }
+    ]
+  }

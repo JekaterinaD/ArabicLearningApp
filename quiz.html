@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="quizTitle">Arabic Quiz</title>
+    <link rel="stylesheet" href="quiz.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    </head>
+
+<body>
+    <div id="container">
+        
+        <p>Select the Arabic word for the item shown.</p>
+        <div id="question"></div>
+
+        <!-- Option divs -->
+        <div class="option" data-pronounce=""></div>
+        <div class="option" data-pronounce=""></div>
+        <div class="option" data-pronounce=""></div>
+
+        <p id="feedback" style="color: red;"></p>
+
+        <div class="content-container"></div>
+
+        <button id="viewJsonButton">View all words</button>
+        <button id="hideJsonButton" style="display: none;">Hide all words</button>
+        <div><button id="backButton">Go Back</button></div>
+        <div id="jsonContent" style="display: none;"></div>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+
+</html>
+
+

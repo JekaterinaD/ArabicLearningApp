@@ -1,0 +1,25 @@
+
+{
+  "animals": [
+    { "arabic": "دجاجة", "pronounce": "dajaajah", "english": "chicken" },
+    { "arabic": "كلب", "pronounce": "kalb", "english": "dog" },
+    { "arabic": "دُبّ", "pronounce": "dubb", "english": "bear" },
+    { "arabic": "أرنب", "pronounce": "arnab", "english": "rabbit" },
+    { "arabic": "حمار", "pronounce": "himar", "english": "donkey" },
+    { "arabic": "قطة", "pronounce": "qittah", "english": "cat" },
+    { "arabic": "حصان", "pronounce": "hisaan", "english": "horse" },
+    { "arabic": "نمر", "pronounce": "namir", "english": "tiger" },
+    { "arabic": "أسد", "pronounce": "asad", "english": "lion" },
+    { "arabic": "فيل", "pronounce": "feel", "english": "elephant" },
+    { "arabic": "زرافة", "pronounce": "zaraafah", "english": "giraffe" },
+    { "arabic": "غزال", "pronounce": "ghazaal", "english": "deer" },
+    { "arabic": "ثعلب", "pronounce": "tha'alab", "english": "fox" },
+    { "arabic": "ذئب", "pronounce": "dhi'b", "english": "wolf" },
+    { "arabic": "سمكة", "pronounce": "samakah", "english": "fish" },
+    { "arabic": "حوت", "pronounce": "hoot", "english": "whale" },
+    { "arabic": "دلفين", "pronounce": "delfeen", "english": "dolphin" },
+    { "arabic": "نسر", "pronounce": "nesr", "english": "eagle" },
+    { "arabic": "بومة", "pronounce": "boumah", "english": "owl" },
+    { "arabic": "بطة", "pronounce": "battah", "english": "duck" }
+  ]
+}

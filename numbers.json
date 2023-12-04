@@ -1,0 +1,16 @@
+
+{
+    "numbers": [
+      { "arabic": " صفر", "pronounce": "ṣifr", "english": "zero" },
+      { "arabic": " واحد", "pronounce": "wāḥid", "english": "one" },
+      { "arabic":  "إثنان", "pronounce": "iṯnān", "english": "two" },
+      { "arabic": " ثلاثة", "pronounce": "ṯālaṯa", "english": "three" },
+      { "arabic":  "أربعة", "pronounce": "ārba’a", "english": "four" },
+      { "arabic": " خمسة", "pronounce": "ḫamsa", "english": "five" },
+      { "arabic":  "ستة", "pronounce": "sitta", "english": "six" },
+      { "arabic": " سبعة", "pronounce": "sab’a", "english": "seven" },
+      { "arabic":  "ثمانية", "pronounce": "ṯamāniya", "english": "eight" },
+      { "arabic": " تسعة", "pronounce": "tis’a", "english": "nine" },
+      { "arabic":  "عشرة", "pronounce": "‘ashra", "english": "ten" }
+    ]
+  }

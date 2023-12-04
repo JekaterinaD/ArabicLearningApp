@@ -1,0 +1,35 @@
+
+{
+  "adjectives": [
+    { "arabic": "ضعيف", "pronounce": "daeif", "english": "weak" },
+    { "arabic": "ثقيل", "pronounce": "thaqil", "english": "heavy" },
+    { "arabic": "نحيف", "pronounce": "nahif", "english": "skinny" },
+    { "arabic": "قصير", "pronounce": "qasir", "english": "short" },
+    { "arabic": "قديم", "pronounce": "qadim", "english": "old" },
+    { "arabic": "قبيح", "pronounce": "qabih", "english": "ugly" },
+    { "arabic": "سليم", "pronounce": "salim", "english": "intact" },
+    { "arabic": "جديد", "pronounce": "jadid", "english": "new" },
+    { "arabic": "مكسور", "pronounce": "maksur", "english": "broken" },
+    { "arabic": "جميل", "pronounce": "jamil", "english": "beautiful" },
+    { "arabic": "غالي", "pronounce": "ghali", "english": "expensive" },
+    { "arabic": "سعيد", "pronounce": "saeid", "english": "happy" },
+    { "arabic": "طويل", "pronounce": "tawil", "english": "tall" },
+    { "arabic": "رخيص", "pronounce": "rakhees", "english": "cheap" },
+    { "arabic": "عريض", "pronounce": "areed", "english": "wide" },
+    { "arabic": "ضيق", "pronounce": "daiq", "english": "narrow" },
+    { "arabic": "سميك", "pronounce": "sameek", "english": "thick" },
+    { "arabic": "رقيق", "pronounce": "raqeeq", "english": "thin" },
+    { "arabic": "كبير", "pronounce": "kabeer", "english": "big" },
+    { "arabic": "صغير", "pronounce": "sagheer", "english": "small" },
+    { "arabic": "مشرق", "pronounce": "mushriq", "english": "bright" },
+    { "arabic": "مظلم", "pronounce": "muthlim", "english": "dark" },
+    { "arabic": "ثابت", "pronounce": "thaabit", "english": "steady" },
+    { "arabic": "متحرك", "pronounce": "mutaharrik", "english": "moving" },
+    { "arabic": "ممتلئ", "pronounce": "mamtili'", "english": "full" },
+    { "arabic": "فارغ", "pronounce": "faregh", "english": "empty" },
+    { "arabic": "صعب", "pronounce": "sa'ab", "english": "difficult" },
+    { "arabic": "سهل", "pronounce": "sahl", "english": "easy" },
+    { "arabic": "لذيذ", "pronounce": "ladheeth", "english": "delicious" },
+    { "arabic": "مر", "pronounce": "murr", "english": "bitter" }
+  ]
+}

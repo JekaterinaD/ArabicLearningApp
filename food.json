@@ -1,0 +1,34 @@
+{
+    "food": [
+      
+      { "arabic": "تفاح", "pronounce": "tuffaah", "english": "apple" },
+      { "arabic": "موز", "pronounce": "mawz", "english": "banana" },
+      { "arabic": "برتقال", "pronounce": "burtuqaal", "english": "orange" },
+      { "arabic": "فراولة", "pronounce": "farawlah", "english": "strawberry" },
+      { "arabic": "عنب", "pronounce": "‘inab", "english": "grapes" },
+  
+      
+      { "arabic": "جزر", "pronounce": "jazar", "english": "carrot" },
+      { "arabic": "طماطم", "pronounce": "tamaatim", "english": "tomato" },
+      { "arabic": "بطاطس", "pronounce": "batataas", "english": "potato" },
+      { "arabic": "خيار", "pronounce": "khiyaar", "english": "cucumber" },
+      { "arabic": "فلفل", "pronounce": "filfil", "english": "pepper" },
+  
+      
+      { "arabic": "لحم بقري", "pronounce": "lahm baqari", "english": "beef" },
+      { "arabic": "لحم غنم", "pronounce": "lahm ghanam", "english": "lamb" },
+      { "arabic": "دجاج", "pronounce": "dajaaj", "english": "chicken" },
+  
+      
+      { "arabic": "سمك", "pronounce": "samak", "english": "fish" },
+      { "arabic": "جمبري", "pronounce": "gambri", "english": "shrimp" },
+  
+      
+      { "arabic": "شاي", "pronounce": "shay", "english": "tea" },
+      { "arabic": "قهوة", "pronounce": "qahwah", "english": "coffee" },
+      { "arabic": "ماء", "pronounce": "maa’", "english": "water" },
+      { "arabic": "عصير", "pronounce": "‘aseer", "english": "juice" },
+      { "arabic": "مشروب غازي", "pronounce": "mashroob ghazi", "english": "soda" }
+    ]
+  }
+  

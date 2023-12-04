@@ -1,0 +1,35 @@
+
+{
+  "jobs": [
+    { "arabic": "ممرض", "pronounce": "mumarid", "english": "nurse" },
+    { "arabic": "بائع", "pronounce": "bayie", "english": "seller" },
+    { "arabic": "خباز", "pronounce": "khabaz", "english": "baker" },
+    { "arabic": "مهندس", "pronounce": "muhandis", "english": "engineer" },
+    { "arabic": "محاسب", "pronounce": "muhasib", "english": "accountant" },
+    { "arabic": "بواب", "pronounce": "bawaab", "english": "porter" },
+    { "arabic": "نجار", "pronounce": "najaar", "english": "carpenter" },
+    { "arabic": "بحار", "pronounce": "bahaar", "english": "seaman" },
+    { "arabic": "مدرس", "pronounce": "mudaris", "english": "teacher" },
+    { "arabic": "مصور", "pronounce": "musawir", "english": "photographer" },
+    { "arabic": "وزير", "pronounce": "wazir", "english": "minister" },
+    { "arabic": "طبيب", "pronounce": "tabeeb", "english": "doctor" },
+    { "arabic": "محامي", "pronounce": "muhami", "english": "lawyer" },
+    { "arabic": "طاهي", "pronounce": "tahi", "english": "chef" },
+    { "arabic": "سائق", "pronounce": "saiq", "english": "driver" },
+    { "arabic": "فنان", "pronounce": "fanan", "english": "artist" },
+    { "arabic": "موسيقي", "pronounce": "musiqi", "english": "musician" },
+    { "arabic": "ممثل", "pronounce": "mumathil", "english": "actor" },
+    { "arabic": "كاتب", "pronounce": "katib", "english": "writer" },
+    { "arabic": "مبرمج", "pronounce": "mubarmij", "english": "programmer" },
+    { "arabic": "مصمم", "pronounce": "musamim", "english": "designer" },
+    { "arabic": "مدير", "pronounce": "mudeer", "english": "manager" },
+    { "arabic": "محلل", "pronounce": "muhalil", "english": "analyst" },
+    { "arabic": "مهندس معماري", "pronounce": "muhandis ma'mari", "english": "architect" },
+    { "arabic": "صيدلي", "pronounce": "saydali", "english": "pharmacist" },
+    { "arabic": "رياضي", "pronounce": "riyadi", "english": "athlete" },
+    { "arabic": "مدرب", "pronounce": "mudarrab", "english": "coach" },
+    { "arabic": "صحفي", "pronounce": "sahafi", "english": "journalist" },
+    { "arabic": "مضيف", "pronounce": "mudheef", "english": "host" },
+    { "arabic": "مضيفة", "pronounce": "mudheefah", "english": "hostess" }
+  ]
+}
